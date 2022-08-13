@@ -9,7 +9,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/react-fontawesome": "^0.1.14",
-    "bootstrap": "^5.0.0-beta3",
+    "bootstrap": "^5.2.0",
     "clipboard": "^2.0.8",
     "gatsby": "^3.1.2",
     "gatsby-plugin-gatsby-cloud": "^2.1.0",
